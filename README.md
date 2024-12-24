@@ -9,12 +9,16 @@
 
 ## 🛠️ Skills & Tools
 
-### Programming Languages & Frameworks
+### Programming Languages
 - **HTML**  
 - **CSS**  
 - **JavaScript**  
-- **PHP**  
-- **CodeIgniter PHP Framework**
+- **PHP**
+
+
+### Frameworks
+- **CodeIgniter (PHP Framework)**
+- **Boostrap (CSS Framework)**
 
 ### Development Tools
 - **Docker**  
